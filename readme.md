@@ -1,4 +1,4 @@
-# Getting Starting with Text Analysis in Python
+# Getting Started with Text Analysis in Python
 
 If you'd like to follow along with this presentation from PyGotham 2018, please feel free to download this repo and follow these instructions.
 
